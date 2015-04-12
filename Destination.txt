@@ -1,0 +1,6 @@
+Lars, 5, 15, 5, 5
+Mona, 10, 5, 10, 5
+Thomas, 8, 2, 10, 10
+Veronica, 20, 2, 3, 5
+Kenneth, 10, 8, 0, 2
+Christian, 20, 0, 5, 5
